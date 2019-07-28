@@ -7,14 +7,7 @@
 3. Access and modify data stored in a hash.
 4. Add new data to a hash.
 
-## Instructions
-
-1. Fork and clone this lab and run the test suite with the `learn` command. Pay
-   attention to the test suite for this lab. The instructions and comments are
-   designed to help you get the tests to pass.
-
-2. The test requires you to create a method called `#new_hash` that creates and
-   returns a new, empty hash.
+## 
 
 3. The second test requires you to build a method called `#actor` that creates
    and returns a hash with a certain actor's name. _Read the test output by
